@@ -1,0 +1,6 @@
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\obj\Debug\InspectionProperty.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\obj\Debug\InspectionProperty.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Peter\Desktop\FXServer\server-data\resources\[prscore]\player\Prscore_Player\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
